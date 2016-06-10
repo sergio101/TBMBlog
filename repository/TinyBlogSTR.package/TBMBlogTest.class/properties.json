@@ -1,0 +1,16 @@
+{
+	"category" : "TinyBlogSTR-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"blog",
+		"post",
+		"first" ],
+	"name" : "TBMBlogTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

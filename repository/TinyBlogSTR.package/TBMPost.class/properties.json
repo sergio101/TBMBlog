@@ -1,0 +1,18 @@
+{
+	"category" : "TinyBlogSTR-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"title",
+		"text",
+		"date",
+		"category",
+		"visible" ],
+	"name" : "TBMPost",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

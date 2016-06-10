@@ -1,0 +1,14 @@
+{
+	"category" : "TinyBlogSTR-Core",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"posts" ],
+	"name" : "TBMBlog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
